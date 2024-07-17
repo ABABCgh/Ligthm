@@ -4,7 +4,7 @@
    ②Rawというボタンがあるのでそこを押すとダウンロードされる  
    &emsp;&emsp;![image](https://github.com/user-attachments/assets/47a00f3d-f56e-4f49-987e-40ae9edbfb61)  
    ③ダウンロードされたzipファイルを展開する  
-   ④展開したの中にあるLigthmというアプリケーションから起動  
+   ④展開した中にあるLigthmというアプリケーションから起動  
    ⑤そのまま[Play!]から始められます
 &nbsp;  
 &nbsp;  
