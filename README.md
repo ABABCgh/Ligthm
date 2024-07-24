@@ -1,17 +1,16 @@
 # Ligthm
 0. ダウンロードから起動まで  
-   ①このページにあるLigthm.zipを押す  
-   ②Rawというボタンがあるのでそこを押すとダウンロードされる  
-   &emsp;&emsp;![image](https://github.com/user-attachments/assets/47a00f3d-f56e-4f49-987e-40ae9edbfb61)  
-   ③ダウンロードされたzipファイルを展開する  
-   ④展開した中にあるLigthmというアプリケーションから起動  
-   ⑤そのまま[Play!]から始められます
+   ①[このページ](https://github.com/ABABCgh/Ligthm/releases)にあるLigthm.zipを押す  
+   ②ダウンロードされたzipファイルを展開する  
+   ③展開した中にあるLigthmというアプリケーションから起動  
+   ④警告が出るので、詳細 から許可  
+   ⑤そのまま[Play!]から始められます  
 &nbsp;  
 &nbsp;  
 &nbsp;  
 &nbsp;  
 
-1. 選曲  
+2. 選曲  
    Startが光っている時、↑↓で曲を選択・Spaceで開始します  
    ノーツスピード変更や判定調整などはJキーで出てくる設定でできます  
    &emsp;Spead&emsp;&thinsp; : ノーツの速さ。F/Jで変えられます  
@@ -53,6 +52,7 @@
 &emsp;タイトル画面 - Plumber https://www.youtube.com/watch?v=Zo80A_FOYmk  
 &emsp;Astronomia https://www.youtube.com/watch?v=iLBBRuVDOo4  
 &emsp;ダダダダ天使 https://www.youtube.com/watch?v=ANp0qch3XVM  
+&emsp;GO! GO! MANIAC https://www.youtube.com/watch?v=EV-bDK_aipw  
 &emsp;群青 https://www.youtube.com/watch?v=Y4nEEZwckuU  
 &emsp;怪物 https://www.youtube.com/watch?v=dy90tA3TT1c  
 &emsp;トウキョウ・シャンディ・ランデヴ https://www.youtube.com/watch?v=NFMmSOWPj_k
