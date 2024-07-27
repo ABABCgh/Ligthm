@@ -34,7 +34,7 @@
    また、→キーでリザルトの拡大ができます  
 &ensp;  
    AP : 黄色 1000000点  
-   FC : 赤色 &nbsp;&thinsp;&thinsp;750000点～  
+   FC : 赤色 &nbsp;&thinsp;&thinsp;685000点～  
 &ensp;  
    各ノーツ
 
